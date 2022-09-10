@@ -2,8 +2,7 @@
 
 /**
  * main - Entry point
- * Description: Print output with printf function.
- * Description: Print output with printf function.
+ * Description: Print outcome of printf function.
  * Return: Always 0 (Success)
 */
 int main(void)
